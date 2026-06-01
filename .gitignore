@@ -1,2 +1,5 @@
 *.old
 old/
+
+# package extraction / inspection scratch
+x86_64/.audit/
